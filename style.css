@@ -2,7 +2,7 @@ body {
     max-width: 795px;
     max-height: 1300px;
     margin: 0 auto;
-    ;
+    
 }
 
 .header {
@@ -12,7 +12,7 @@ body {
     height: 300px;
     border: 1px solid black;
     border-radius: 2px;
-    background-color: rgb(235, 235, 235)
+    background-color: rgb(234, 235, 235)
 }
 
 .photo__div {
